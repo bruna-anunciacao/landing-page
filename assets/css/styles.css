@@ -412,5 +412,7 @@ body .full-width {
         display: none;
     }
 
-
+    h1, h2 {
+        font-size: 4rem;
+    }
 }
